@@ -47,7 +47,7 @@ Veri seti üzerinde uygulanan işlemler:
 - Logistic Regression  
 - Decision Tree  
 - Random Forest  
-- K-Nearest Neighbors (KNN)  
+- K-Nearest Neighbors   
 - XGBoost  
 
 ### Deneysel Senaryolar
@@ -123,8 +123,9 @@ Model, fiziksel sistemleri doğrudan kontrol etmek yerine **erken uyarı ve kara
 
 ---
 
-##  Proje Yapısı
+## 📁 Proje Yapısı
 
+```text
 ├── code/
 │   ├── 01_data_overview.py
 │   ├── 02_data_cleaning_1.py
@@ -147,15 +148,7 @@ Model, fiziksel sistemleri doğrudan kontrol etmek yerine **erken uyarı ve kara
 │   └── ai4i2020_clean_step2.csv
 │
 └── README.md
-
-##  Kullanılan Teknolojiler
-
-- Python  
-- Pandas, NumPy  
-- Scikit-learn  
-- XGBoost  
-- Matplotlib  
-- Seaborn  
+``` 
 
 ##  Amaç
 
